@@ -1,0 +1,18 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "hangman game developed in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "author": "Hussain Abo Alamal",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  }
+}
