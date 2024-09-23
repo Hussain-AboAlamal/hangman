@@ -4,6 +4,7 @@
   "description": "hangman game developed in javascript",
   "main": "index.js",
   "scripts": {
+    "start": "node hangedMan.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -13,6 +14,7 @@
   "author": "Hussain Abo Alamal",
   "license": "ISC",
   "dependencies": {
-    "figlet": "^1.7.0"
+    "figlet": "^1.7.0",
+    "readline-sync": "^1.4.10"
   }
 }
